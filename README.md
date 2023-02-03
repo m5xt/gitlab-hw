@@ -44,8 +44,6 @@
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](ссылка на скриншот 1)`
 
-![image](https://user-images.githubusercontent.com/120383043/213287834-f6409ee3-48e1-4bc3-86fe-023da4649c1a.png)
-![image](https://user-images.githubusercontent.com/120383043/213288082-0da0d287-0271-49b6-9332-a23f78a22ad0.png)
 
 ---
 
