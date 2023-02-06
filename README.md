@@ -41,8 +41,8 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![alt text](https://github.com/m5xt/gitlab-hw/master/img/pic1.png)`
+`При необходимости прикрепитe сюда скриншоты`
+![alt text](https://github.com/m5xt/gitlab-hw/blob/main/img/pic1.png)
 
 
 ---
@@ -66,8 +66,8 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![alt text](https://github.com/m5xt/gitlab-hw/master/img/pic2.png)`
+`При необходимости прикрепитe сюда скриншоты`
+![alt text](https://github.com/m5xt/gitlab-hw/blob/main/img/pic2.png)
 
 
 ---
